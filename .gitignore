@@ -1,0 +1,4 @@
+**/__azurite*
+**/terraform.tfstate*
+**/.terraform/*
+**/.terraform*
